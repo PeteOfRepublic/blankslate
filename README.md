@@ -1,0 +1,4 @@
+#About BlankSlate
+__Why?__ Good question. I got fed up of trying to roll resets into my [http://lesscss.org/](less) files during the build phase of my projects so I decided once and for all to convert them to the less format and put them up here in case other people wanted them too.
+They're probably compatible with other CSS pre-compilers but I haven't tested so if they're not by all means fork this repository, convert them and make a pull request.
+I claim no ownership over the techniques used in these files, I'm just converting them to a different format for a particular use case and I hope that others find them useful too. Please use them liberally, without regret and with utter abandon. Drive carefully. Phone your mother.
